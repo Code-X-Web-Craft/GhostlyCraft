@@ -26,7 +26,7 @@ JavaScript
 -How to Run Locally-
 
 1. Clone the repository:
-   `git clone https://github.com/Code-X-Web-Craft/halloween-responsive-website`
+   https://github.com/Code-X-Web-Craft/halloween-responsive-website
 2. Open the `index.html` file in your browser
 
 -Author-
