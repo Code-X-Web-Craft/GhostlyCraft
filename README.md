@@ -37,3 +37,4 @@ Developed by Rushi Dobariya
 ---
 
 Thank you for visiting! 🎃✨
+![preview](https://github.com/user-attachments/assets/0441a874-1a94-42c5-8ca3-b0e99dbe805a)
