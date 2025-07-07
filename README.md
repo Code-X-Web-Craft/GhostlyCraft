@@ -1,2 +1,39 @@
-# halloween-responsive-website
-Responsive Halloween-themed website using HTML, CSS, and JavaScript. Includes product listings, interactive UI, and modern animations.
+Halloween Responsive Website 🎃
+
+-Project Overview-
+
+This is a fully responsive Halloween-themed website developed using **HTML, CSS, and JavaScript.**
+It features product listings, engaging UI, and mobile-friendly design.
+
+-Features-
+
+* 🎃 Halloween-themed design
+* 🛒 Product listing with pricing
+* 📱 Mobile responsive
+* ⚡ Smooth animations
+* 📂 Clean and organized code structure
+
+-Technologies Used-
+
+HTML
+CSS
+JavaScript
+
+-Live Demo-
+
+(Add your GitHub Pages link here after deployment)
+
+-How to Run Locally-
+
+1. Clone the repository:
+   `git clone https://github.com/Code-X-Web-Craft/halloween-responsive-website`
+2. Open the `index.html` file in your browser
+
+-Author-
+
+Code X Web Studio
+Developed by Rushi Dobariya
+
+---
+
+Thank you for visiting! 🎃✨
